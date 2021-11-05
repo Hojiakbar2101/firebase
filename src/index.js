@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import App from './App';
 
 ReactDOM.render(
@@ -9,3 +8,7 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );
+// npm i react-firebase-hooks
+// npm i firebase
+// npm install @mui/material
+// npm install @material-ui/core 
